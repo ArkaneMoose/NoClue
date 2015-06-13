@@ -1,7 +1,8 @@
 # @Noclue
 A bot for playing Cluedo in Euphoria.
 
-Commands:  
+## Commands
+
 !help @Noclue: Get help with @Noclue  
 !rules: Learn about the rules of Euphorian Cluedo  
 !roomlist: Displays the list of rooms you can navigate to  
