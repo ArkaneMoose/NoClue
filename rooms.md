@@ -17,4 +17,4 @@
 &adventure  
 &cabal
 
-![A map of the rooms used in Euphorian Cluedo](https://github.com/ArkaneMoose/NoClue/blob/master/res/map.jpg)
+![A map of the rooms used in Euphorian Cluedo](https://github.com/ArkaneMoose/NoClue/blob/master/res/Map.jpg)
