@@ -2,7 +2,7 @@
 A bot for playing Cluedo in Euphoria.
 
 ## Rules
-### How to play:
+### How to play
 There are different rooms, suspects, and murder weapons. To win the game, you must guess the murderer, the murder weapon, and the location of the murder correctly. The cards, which contain information about location, suspects, and weapons, are dealt at the beginning to each player in &noclue. The cards that no one has are the ones involved in the murder.
 
 ### Suggestions
