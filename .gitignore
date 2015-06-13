@@ -1,2 +1,7 @@
 *.pyc
 */project/*
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
