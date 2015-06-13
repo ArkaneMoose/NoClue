@@ -18,4 +18,4 @@
 &cabal
 
 ##Map
-![A map of the rooms used in Euphorian Cluedo](https://github.com/ArkaneMoose/NoClue/blob/master/res/Map.jpg)
+![A map of the rooms used in Euphorian Cluedo](https://github.com/ArkaneMoose/NoClue/blob/master/res/map.jpg)
