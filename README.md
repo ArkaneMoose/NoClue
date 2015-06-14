@@ -6,7 +6,7 @@ A bot for playing Cluedo in Euphoria.
 There are different rooms, suspects, and murder weapons. To win the game, you must guess the murderer, the murder weapon, and the location of the murder correctly. The cards, which contain information about location, suspects, and weapons, are dealt at the beginning to each player in &noclue. The cards that no one has are the ones involved in the murder.
 
 ### Suggestions
-The most important part of the game is the 'suggestions'. To make a suggestion, you have to be 'in' a room. You get in a room by rolling at least a 10 (altogether) with @DnDRoller.
+The most important part of the game is the 'suggestions'. To make a suggestion, you have to be 'in' a room. You can move to the next adjacent room by rolling a 5, or any room by rolling a 10 with @DnDRoller.
 Once you're 'in' a room (you never really leave this one!), you make a suggestion from that room. For example: 'I am in &xkcd, and I suggest that it was @Balakirev in &xkcd with tweezers.'
 The person after you looks at their 'cards' to see if they have any of the 3 you named. If they do, they announce that they have one, and go to &noclue to show it to the person who made the suggestion. They only have to show one card, even if they have more than one, and they ONLY show it to the person who made the suggestion. I recommend sharing clues by nick-haunting.
 
